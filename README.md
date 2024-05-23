@@ -1,2 +1,2 @@
 # CRM-Sales-Opportunities
-Analysis from CRM Sales Opportunities Excel Dataset using MySQL &amp; Tableau
+Analysis from CRM Sales Opportunities Excel Dataset using MySQL and also Tableau
